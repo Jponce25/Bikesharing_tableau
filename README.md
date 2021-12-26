@@ -10,49 +10,49 @@ The analysis could be viewed in the following url: https://public.tableau.com/vi
 
 Tableau view
 
-<img src="https://github.com/Jponce25/Mapping_Earthquakes/blob/9c8eaff1a22ce9d385af0e805642c727c343476c/Images/Imagen1.png" width="680">
+<img src="https://github.com/Jponce25/Bikesharing_tableau/blob/b08865daccbde32b0e7ec5b412a73115395f94aa/Images/0.png" width="680">
 
 ## Bikesharing Results
 
 ### Checkout Times for Users
 
-<img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/1.png" width="680">
+<img src="https://github.com/Jponce25/Bikesharing_tableau/blob/b08865daccbde32b0e7ec5b412a73115395f94aa/Images/1.png" width="680">
 
 Most of the users use the bicycle between 4 and 6 hours. What could show that long trips are preferred.
 
 ### Checkout Times by Gender
 
-<img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/2.png" width="680">
+<img src="https://github.com/Jponce25/Bikesharing_tableau/blob/b08865daccbde32b0e7ec5b412a73115395f94aa/Images/2.png" width="680">
 
 Disaggregating by gender, it is observed that men use the bicycle service in a greater proportion. Women do not show much variation in the duration of the trips.
 
 ### Trips by Weekday for Each Hour
 
-<img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/3.png" width="680">
+<img src="https://github.com/Jponce25/Bikesharing_tableau/blob/b08865daccbde32b0e7ec5b412a73115395f94aa/Images/3.png" width="680">
 
 It is identified that the hours with the greatest trips are in the morning from 7 to 9 am and in the afternoon from 4 to 7 pm.
 
 ### Trips by Gender (Weekday per Hour)
 
-<img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/2.png" width="680">
+<img src="https://github.com/Jponce25/Bikesharing_tableau/blob/b08865daccbde32b0e7ec5b412a73115395f94aa/Images/4.png" width="680">
 
 Once again, it can be identified that it is men who make the greatest number of trips, however, for both genders the hours of greatest use are the same.
 
 ### User Trips by Gender by Weekday
 
-<img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/3.png" width="680">
+<img src="https://github.com/Jponce25/Bikesharing_tableau/blob/b08865daccbde32b0e7ec5b412a73115395f94aa/Images/5.png" width="680">
 
 Most trips are made by subscribers and the days of greatest use are Thursdays, Fridays and Tuesdays.
 
 ### Top Starting Locations
 
-<img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/2.png" width="680">
+<img src="https://github.com/Jponce25/Bikesharing_tableau/blob/b08865daccbde32b0e7ec5b412a73115395f94aa/Images/6.png" width="680">
 
 The main stations to start trips are those that are connected to other trasportation services such as the Grand Central Terminal or the West Midtown Ferry Terminal.
 
 ### Top Ending Locations
 
-<img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/3.png" width="680">
+<img src="https://github.com/Jponce25/Bikesharing_tableau/blob/b08865daccbde32b0e7ec5b412a73115395f94aa/Images/7.png" width="680">
 
 The main stations to end trips are also those that are connected to other transportation services or tourist sites such as Union Square or Madison Square Garden.
 
@@ -68,18 +68,18 @@ Additional visualizations:
 
 ### Average Trip Duration
 
-<img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/3.png" width="680">
+<img src="https://github.com/Jponce25/Bikesharing_tableau/blob/b08865daccbde32b0e7ec5b412a73115395f94aa/Images/8.png" width="680">
 
 Average travel length is greatest in age groups 25-35.
 
 ### Number of Rides per Bike
 
-<img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/2.png" width="680">
+<img src="https://github.com/Jponce25/Bikesharing_tableau/blob/b08865daccbde32b0e7ec5b412a73115395f94aa/Images/9.png" width="680">
 
 We can identify the number of trips for each bike. The bike with ID 38124 has the most rides with 479 rides.
 
 ### Tripduration per Bike
 
-<img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/2.png" width="680">
+<img src="https://github.com/Jponce25/Bikesharing_tableau/blob/b08865daccbde32b0e7ec5b412a73115395f94aa/Images/10.png" width="680">
 
 We can also identify the amount of tripduration per bike, we identify two bicycles with a very high amount of tripduration bike ID 39570 and 17551.
