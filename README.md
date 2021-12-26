@@ -28,13 +28,13 @@ Disaggregating by gender, it is observed that men use the bicycle service in a g
 
 ### Trips by Weekday for Each Hour
 
-<img src="https://github.com/Jponce25/Bikesharing_tableau/blob/b08865daccbde32b0e7ec5b412a73115395f94aa/Images/3.png" width="680">
+<img src="https://github.com/Jponce25/Bikesharing_tableau/blob/b08865daccbde32b0e7ec5b412a73115395f94aa/Images/3.png" width="450">
 
 It is identified that the hours with the greatest trips are in the morning from 7 to 9 am and in the afternoon from 4 to 7 pm.
 
 ### Trips by Gender (Weekday per Hour)
 
-<img src="https://github.com/Jponce25/Bikesharing_tableau/blob/b08865daccbde32b0e7ec5b412a73115395f94aa/Images/4.png" width="680">
+<img src="https://github.com/Jponce25/Bikesharing_tableau/blob/b08865daccbde32b0e7ec5b412a73115395f94aa/Images/4.png" width="450">
 
 Once again, it can be identified that it is men who make the greatest number of trips, however, for both genders the hours of greatest use are the same.
 
