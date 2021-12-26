@@ -26,7 +26,7 @@ Most of the users use the bicycle between 4 and 6 hours. What could show that lo
 
 Disaggregating by gender, it is observed that men use the bicycle service in a greater proportion. Women do not show much variation in the duration of the trips.
 
-#### Trips by Weekday for Each Hour
+### Trips by Weekday for Each Hour
 
 <img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/3.png" width="680">
 
@@ -38,7 +38,7 @@ It is identified that the hours with the greatest trips are in the morning from 
 
 Once again, it can be identified that it is men who make the greatest number of trips, however, for both genders the hours of greatest use are the same.
 
-#### User Trips by Gender by Weekday
+### User Trips by Gender by Weekday
 
 <img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/3.png" width="680">
 
@@ -50,7 +50,7 @@ Most trips are made by subscribers and the days of greatest use are Thursdays, F
 
 The main stations to start trips are those that are connected to other trasportation services such as the Grand Central Terminal or the West Midtown Ferry Terminal.
 
-#### Top Ending Locations
+### Top Ending Locations
 
 <img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/3.png" width="680">
 
@@ -66,7 +66,7 @@ It can be identified that there is a great connection between the use of the bic
 
 Additional visualizations:
 
-#### Average Trip Duration
+### Average Trip Duration
 
 <img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/3.png" width="680">
 
