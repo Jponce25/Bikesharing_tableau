@@ -6,9 +6,10 @@ For this project we have to build a Tableau History. Tableau, is a data analysis
 
 Tableau provide us the tool to create powerful analytic dashboards that tell a clear story and can be easily share with others, our objective is to carry out a market analysis to find out the feasibility of opening a bicycle rental company in Des Moines, Iowa. Using the public information of the city of New York we made some visualizations in order to know how the market works.
 
-The analysis could be viewed in the following url: https://public.tableau.com/views/Module14Challenge_16404828712430/CitiBikeReport?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link
+The analysis could be viewed in the following url: 
+[link to dashboard](https://public.tableau.com/views/Module14Challenge_16404828712430/CitiBikeReport?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
-Tableau view
+**Tableau view**
 
 <img src="https://github.com/Jponce25/Bikesharing_tableau/blob/b08865daccbde32b0e7ec5b412a73115395f94aa/Images/0.png" width="680">
 
